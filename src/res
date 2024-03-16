@@ -1,0 +1,42 @@
+TAP version 13
+# Math.hypot
+  ---
+  iterations: 1000000
+  elapsed: 0.457849215
+  rate: 2184125.181911691
+  ...
+ok 1 benchmark finished
+# Math.hypot
+  ---
+  iterations: 1000000
+  elapsed: 0.454676639
+  rate: 2199365.250432407
+  ...
+ok 2 benchmark finished
+# Math.hypot
+  ---
+  iterations: 1000000
+  elapsed: 0.472378014
+  rate: 2116948.652059831
+  ...
+ok 3 benchmark finished
+# hypot
+  ---
+  iterations: 1000000
+  elapsed: 0.13120811
+  rate: 7621480.105155086
+  ...
+ok 4 benchmark finished
+# hypot
+  ---
+  iterations: 1000000
+  elapsed: 0.129308984
+  rate: 7733414.717727579
+  ...
+ok 5 benchmark finished
+# hypot
+  ---
+  iterations: 1000000
+  elapsed: 0.12404053
+  rate: 8061881.064197323
+  ...
